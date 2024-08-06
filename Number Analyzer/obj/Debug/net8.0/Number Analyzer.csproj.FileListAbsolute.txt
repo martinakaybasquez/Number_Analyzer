@@ -1,0 +1,14 @@
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Number Analyzer/Number Analyzer/obj/Debug/net8.0/Number Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Number Analyzer/Number Analyzer/obj/Debug/net8.0/Number Analyzer.AssemblyInfoInputs.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Number Analyzer/Number Analyzer/obj/Debug/net8.0/Number Analyzer.AssemblyInfo.cs
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Number Analyzer/Number Analyzer/obj/Debug/net8.0/Number Analyzer.csproj.CoreCompileInputs.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Number Analyzer/Number Analyzer/bin/Debug/net8.0/Number Analyzer
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Number Analyzer/Number Analyzer/bin/Debug/net8.0/Number Analyzer.deps.json
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Number Analyzer/Number Analyzer/bin/Debug/net8.0/Number Analyzer.runtimeconfig.json
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Number Analyzer/Number Analyzer/bin/Debug/net8.0/Number Analyzer.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Number Analyzer/Number Analyzer/bin/Debug/net8.0/Number Analyzer.pdb
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Number Analyzer/Number Analyzer/obj/Debug/net8.0/Number Analyzer.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Number Analyzer/Number Analyzer/obj/Debug/net8.0/refint/Number Analyzer.dll
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Number Analyzer/Number Analyzer/obj/Debug/net8.0/Number Analyzer.pdb
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Number Analyzer/Number Analyzer/obj/Debug/net8.0/Number Analyzer.genruntimeconfig.cache
+/Users/jefebadquez/Desktop/Grand_Circus/C# Deliverables/Number Analyzer/Number Analyzer/obj/Debug/net8.0/ref/Number Analyzer.dll
